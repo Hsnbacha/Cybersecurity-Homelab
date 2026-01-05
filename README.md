@@ -1,6 +1,7 @@
 # Cybersecurity-Homelab
 
-This project focuses on the development of a cybersecurity homelab by integrating various procedures, configurations, and technologies. Its primary objective is to illustrate how different components work together to simulate real-world IT environments on a small scale. The ultimate goal is to enhance understanding of the various security elements that interact to safeguard individuals and organizations in today's digital age.
+This project focuses on the development of a cybersecurity homelab by integrating various procedures, configurations, and technologies. Its primary objective is to illustrate how different components work together to simulate real-world IT environments on a small scale. The ultimate goal is to enhance understanding of the various security elements that interact to safeguard individuals and organizations in today's digital age.  
+  
 
 👨🏼‍💻 Performed tasks:  
 DNS & DHCP servers configuration  
@@ -10,7 +11,9 @@ Set up a firewall (pfSense)
 Monitoring and detecting security events with SIEM platform (Splunk)  
 Perform vulnerability scans with Nessus  
 Simulate a threat actor behavior using a Raspberry  
-Troubleshooting operations across various operating systems  
+Troubleshooting operations across various operating systems    
+
+  
 🧠 Upon completion, this project will allow you to test and apply key skills relevant to the industry, including:  
 
 Security auditing  
