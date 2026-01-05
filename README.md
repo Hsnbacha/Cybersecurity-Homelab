@@ -5,6 +5,7 @@ This project focuses on the development of a cybersecurity homelab by integratin
 👨🏼‍💻 Performed tasks:
 
 DNS & DHCP servers configuration
+
 Set up Active Directory environment
 Configure OpenVPN via LDAP on AD environment
 Set up a firewall (pfSense)
