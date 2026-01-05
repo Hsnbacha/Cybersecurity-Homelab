@@ -1,3 +1,6 @@
+
+![homelab_diagram](https://github.com/user-attachments/assets/f00ec5d1-894e-45aa-bb0e-9ee3b86560ed)
+
 # Cybersecurity-Homelab
 
 This project focuses on the development of a cybersecurity homelab by integrating various procedures, configurations, and technologies. Its primary objective is to illustrate how different components work together to simulate real-world IT environments on a small scale. The ultimate goal is to enhance understanding of the various security elements that interact to safeguard individuals and organizations in today's digital age.  
